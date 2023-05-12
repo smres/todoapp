@@ -67,6 +67,8 @@ form button:hover {
   min-width: 30%;
   list-style: none;
   border-radius: 10px;
+  overflow-y: auto;
+  max-height: 25rem;
 }
 
 .todo {
